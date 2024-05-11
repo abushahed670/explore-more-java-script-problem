@@ -1,10 +1,10 @@
 const phones = [
-    {name:'samsung', camera: 12, storage:'32gb', price:36000, color: 'silver'},
-    {name:'walton', camera: 12, storage:'32gb', price:22000, color: 'silver'},
-    {name:'xamoi', camera: 12, storage:'32gb', price:26000, color: 'silver'},
-    {name:'viv0', camera: 12, storage:'32gb', price:46000, color: 'silver'},
-    {name:'Iphone', camera: 12, storage:'32gb', price:50000, color: 'silver'},
-    {name:'onePlus', camera: 12, storage:'32gb', price:60000, color: 'silver'}
+    {name:'samsung', camera: 22, storage:'32gb', price:36000, color: 'silver'},
+    {name:'walton', camera: 32, storage:'32gb', price:22000, color: 'black'},
+    {name:'xamoi', camera: 40, storage:'32gb', price:26000, color: 'pink'},
+    {name:'viv0', camera: 24, storage:'32gb', price:46000, color: 'blue'},
+    {name:'Iphone', camera: 60, storage:'32gb', price:50000, color: 'gold'},
+    {name:'onePlus', camera: 122, storage:'32gb', price:60000, color: 'sea-green'}
 ];
 
 function cheapestPhone(phones){
